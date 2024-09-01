@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mari_raj57248" target="blank"><img src="https://img.shields.io/twitter/follow/mari_raj57248?logo=twitter&style=for-the-badge" alt="mari_raj57248" /></a> </p>
 
-- 🌱 I’m currently learning **React JS,SQL**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **maariraj302@gmail.com**
 
