@@ -1,88 +1,128 @@
 <h1 align="center">Hi 👋, I'm Mari Raj M</h1>
 <h3 align="center">Software Developer Enthusiast | Frontend Developer | AI & Full-Stack Solutions</h3>
+&nbsp;
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=maariraj&label=Profile%20views&color=0e75b6&style=flat" alt="maariraj" /> 
-</p>
+<div align="justify">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maariraj" alt="maariraj" />
-  </a> 
-</p>
+<a href="https://twitter.com/mari_raj57248">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mariraj/">
+<img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MAARIRAJ">
+<img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<p align="left"> 
-  <a href="https://twitter.com/mari_raj57248" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mari_raj57248?logo=twitter&style=for-the-badge" alt="mari_raj57248" />
-  </a> 
-</p>
-
----
-
-- 🌱 Previously worked as **Frontend Developer Intern at OneData Software (OneCare Product)**  
-- 💻 Building modern React UIs, integrating REST APIs, and AI-powered solutions  
-- 🚀 Skilled in Full Stack Development, AI/ML Integration & Cloud Services  
-- 📫 How to reach me: **mariraj.it@gmail.com**  
-
----
-
-<h3 align="left">Projects & Experience:</h3>
-
-- 🔹 **AI-Powered OCR** – Extract data from documents and convert to JSON  
-- 🔹 **NLP with SpaCy** – Intelligent prompt analysis and structured JSON generation  
-- 🔹 **Django Web Scraper** – Automated data collection with BeautifulSoup & Scrapy  
-- 🔹 **Full-Stack Payment Integration** – React + Node + Django + PostgreSQL + Razorpay  
-- 🔹 **AI Chatbot Integration** – Frontend chatbot with AWS Bedrock API + Python backend  
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
+</div>
+<p></p>
+<p align="justify">
+Hi 👋 I'm <b>Mari Raj M</b>, a passionate Software Developer Enthusiast.  
+I love building <b>innovative full-stack and AI-powered solutions</b>, learning cutting-edge tech, and creating user-friendly applications.  
+Feel free to connect with me for collaboration or exciting projects 🚀.
 </p>
 
 ---
 
-<h3 align="left">Certifications:</h3>
+## 💼 Work Experience
+- 🌱 **Frontend Developer Intern – OneData Software (OneCare Product)** (May 2025 - Present)  
+   - Built modern, responsive React UI from Figma designs with reusable components.  
+   - Integrated REST APIs using React Query for efficient data fetching and caching.  
+   - Implemented AI-powered chatbot with AWS Bedrock API + Python backend.  
 
+---
+
+## 🚀 Projects
+- 🔹 **AI-Powered OCR** – Extracted data from documents into JSON format.  
+- 🔹 **NLP with SpaCy** – Prompt analysis & structured JSON generation.  
+- 🔹 **Django Web Scraper** – Automated data collection with BeautifulSoup & Scrapy.  
+- 🔹 **Full-Stack Payment Integration** – React + Node + Django + PostgreSQL + Razorpay.  
+- 🔹 **AI Chatbot Integration** – Conversational experiences within frontend apps.  
+
+---
+
+## ⚙️ My Favorite Tools and Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications
 - 🎓 Complete Full Stack Web Development – Udemy  
 - 🎓 Python for Data Science and Machine Learning – Udemy  
 - 🎓 The Complete SQL Bootcamp 2023 – Udemy  
@@ -90,16 +130,40 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maariraj&show_icons=true&locale=en&layout=compact" alt="maariraj" /></p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maariraj" alt="Mari Raj" />
-</p>
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Mari Raj's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maariraj&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=0e75b6&icon_color=0e75b6" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Mari Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maariraj&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  <br/>
+</details>
 
-<p align="center">✨ Feel free to explore my repositories and get in touch if you're interested in collaboration or have any questions!</p>
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
 
+[![Mari Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maariraj&bg_color=ffffff&color=000000&line=0e75b6&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=maariraj&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+---
+
+## 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=maariraj&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" />
 
 
 
